@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portafolioMara/static/css/main.2cce8147.chunk.css",
+    "main.js": "/portafolioMara/static/js/main.4c69cd11.chunk.js",
+    "main.js.map": "/portafolioMara/static/js/main.4c69cd11.chunk.js.map",
+    "runtime~main.js": "/portafolioMara/static/js/runtime~main.d4c7edde.js",
+    "runtime~main.js.map": "/portafolioMara/static/js/runtime~main.d4c7edde.js.map",
+    "static/js/2.b41502e9.chunk.js": "/portafolioMara/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/portafolioMara/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/portafolioMara/index.html",
+    "precache-manifest.b29dbddbb1f36e97f4465928f1837ff7.js": "/portafolioMara/precache-manifest.b29dbddbb1f36e97f4465928f1837ff7.js",
+    "service-worker.js": "/portafolioMara/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/portafolioMara/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/portafolioMara/static/media/logo.5d5d9eef.svg"
+  }
+}
