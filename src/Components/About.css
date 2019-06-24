@@ -1,0 +1,57 @@
+.about{
+    font-family: 'Playfair Display';
+    padding-bottom: 100px;
+}
+
+.row{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.aboutName{
+    font-family: 'Playfair Display', Bold;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.photo{
+
+        width: 250px;
+        height: 250px;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+      
+   
+}
+
+
+
+.summary {
+    font-family: 'Playfair Display', serif;
+    text-align: justify;
+    font-size: 1em;
+    margin-right: 50px;
+    font-weight: 200;
+    
+   
+}
+
+.sSkills{
+    
+   
+    width: 250px;
+    height: 250px
+    
+}
+
+.tSkills{
+    width: 250px;
+    height: 250px;
+
+}
+
+.font{
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+}

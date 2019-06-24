@@ -1,0 +1,31 @@
+.projects{
+    background-color:  rgb(223, 238, 238);
+    padding-bottom: 150px;
+    
+}
+
+.card-deck{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.projectsName{
+    font-family: 'Playfair Display', Bold;
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card{
+    width: 15rem
+}
+
+.card-body{
+    background-color: rgb(251, 249, 237);
+    font-family: 'Playfair Display', serif;
+}
+
+.btn-primary{
+    background-color: #17a2b8;
+}
+
