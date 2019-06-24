@@ -7,7 +7,7 @@ import Words from '../img/words.png';
 class About extends Component {
     render(){
         return(
-          <div className="about">
+          <div id="about" className="about">
             <h1 class="aboutName">About me</h1>
             <div class="container">
   <div class="row">

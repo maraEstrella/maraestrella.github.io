@@ -5,7 +5,7 @@ class Contact extends Component {
     
     render(){
         return(
-            <div className="contact">
+            <div id="contact" className="contact">
             <h2 className="getName">Get In Touch</h2>
             <ul class="list-group-horizontal-md networks">
   <i class="fab fa-linkedin"></i>
