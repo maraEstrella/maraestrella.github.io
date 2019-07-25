@@ -16,7 +16,7 @@ class Projects extends Component {
                     <div class="card-body">
                         <h5 class="card-title"><i class="fas fa-hamburger"></i> BurgerQueen</h5>
                         <p class="card-text">It is a fast food web application with options for ordering and viewing orders in the kitchen. Technologies used: React Js, Firebase, Bootstrap</p>
-                        <a href="#" class="btn btn-primary">Check Out</a>
+                        <a href="https://marali5.github.io/GDL002-burger-queen" target="_blank" class="btn btn-primary">Check Out</a>
                     </div>
                 </div>
                     <div class="card">
@@ -25,7 +25,7 @@ class Projects extends Component {
                             <h5 class="card-title"><i class="fas fa-door-open"></i> DoorIn</h5>
                             <p class="card-text">It is a web app to register the visits in a work center with option to take a photo and there is a section to view history.
                             Technologies used: Vanilla JavaScript, Firebase</p>
-                            <a href="#" class="btn btn-primary">Check Out</a>
+                            <a href="https://marali5.github.io/GDL002-visitors/index.html" target="_blank" class="btn btn-primary">Check Out</a>
                         </div>
                     </div>
                     <div class="card">
@@ -34,7 +34,7 @@ class Projects extends Component {
                          <h5 class="card-title"><i class="fas fa-gamepad"></i> Pokedex</h5>
                          <p class="card-text">It is a web app designed for beginners in the pokemon game, they can visualize the different avatars and filter them by type.
                             Technologies used: Vanilla JavaScript and CSS.</p>
-                         <a href="#" class="btn btn-primary">Check Out</a>
+                         <a href="https://marali5.github.io/GDL002-data-lovers/src/index.html" target="_blank"  class="btn btn-primary">Check Out</a>
                         </div>
                      </div>
                     </div>

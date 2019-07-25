@@ -1,13 +1,18 @@
-.home{
-    background-color: rgb(251, 249, 237);
-    margin: 0 auto;
-    text-align: center;
-    padding-top: 320px;
-    padding-bottom: 150px;
+.picture{
+width: 100%;
+height: 
 }
+.home{
+    
+background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+    }
 
 .homeName{
-    width: 40%;
+    width: 60%;
    position: absolute;
    top: 35%;
    left:50%;
@@ -96,6 +101,33 @@ animation: line-anim 2s ease forwards 0.3s;
     font-weight:700;
     font-size: 1.75rem; 
     font-family: 'Playfair Display', serif;
+
+}
+
+.btn{
+    font-family: 'Playfair Display', serif;
+    border-color: #fff; 
+    color: #fff;
+}
+
+.flower{
+    width: 15%;
+}
+
+@media only screen and (max-width: 576px) {
+  .flower {
+        width: 20%;
+    }
+    .home p{
+        padding-bottom: 30px;
+        font-size: 1.2rem;
+       
+    }
+    .text{
+        font-size: 1.2rem;
+        padding-top: 230px;
+        text-align: center;
+    }
 
 }
 

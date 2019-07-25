@@ -29,6 +29,7 @@ class Contact extends Component {
     <textarea class="form-control col-md-8" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
                 <button type="submit" class="btn btn-primary">Send</button>
+                <button href="https://www.dropbox.com/home?preview=Mara+estrella+(2).pdf">CV download</button>
             </form>
     </div>
             </div>

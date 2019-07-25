@@ -11,7 +11,7 @@ import Contact from './Components/Contact';
 function App() {
   return (
     <div>
-      <Navbar/>
+     <Navbar/>
       <Home button="See my projects"/>
       <About/>
       <Projects/>

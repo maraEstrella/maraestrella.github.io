@@ -1,12 +1,12 @@
 .about{
+   
     font-family: 'Playfair Display';
     padding-bottom: 100px;
+    padding-top: 70px;
+         
 }
 
-.row{
-    margin-left: 100px;
-    margin-top: 50px;
-}
+
 
 .aboutName{
     font-family: 'Playfair Display', Bold;
@@ -21,7 +21,6 @@
         -moz-border-radius: 50%;
         -webkit-border-radius: 50%;
         border-radius: 50%;
-      
    
 }
 
@@ -30,7 +29,7 @@
 .summary {
     font-family: 'Playfair Display', serif;
     text-align: justify;
-    font-size: 1em;
+    font-size: 1rem;
     margin-right: 50px;
     font-weight: 200;
     
@@ -53,5 +52,27 @@
 
 .font{
     font-family: 'Playfair Display', serif;
-    font-size: 2em;
+    font-size: 1.5em;
+    text-align: center;
+}
+@media only screen and (max-width: 576px) {
+  .aboutName{
+   font-size: 2rem
+}
+.photo{
+        width: 150px;
+    height: 160px;
+    border-radius: 50%;
+    margin-left: 90px;
+}
+.font{
+    padding-top: 20px;
+    
+}
+.summary {
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 }
