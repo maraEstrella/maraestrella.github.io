@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/portafolioMara/static/css/main.2cce8147.chunk.css",
-    "main.js": "/portafolioMara/static/js/main.4c69cd11.chunk.js",
-    "main.js.map": "/portafolioMara/static/js/main.4c69cd11.chunk.js.map",
-    "runtime~main.js": "/portafolioMara/static/js/runtime~main.d4c7edde.js",
-    "runtime~main.js.map": "/portafolioMara/static/js/runtime~main.d4c7edde.js.map",
-    "static/js/2.b41502e9.chunk.js": "/portafolioMara/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/portafolioMara/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/portafolioMara/index.html",
-    "precache-manifest.b29dbddbb1f36e97f4465928f1837ff7.js": "/portafolioMara/precache-manifest.b29dbddbb1f36e97f4465928f1837ff7.js",
-    "service-worker.js": "/portafolioMara/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/portafolioMara/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/portafolioMara/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.81dbbfb7.chunk.css",
+    "main.js": "/static/js/main.af588d60.chunk.js",
+    "main.js.map": "/static/js/main.af588d60.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.e7b966ef.chunk.js": "/static/js/2.e7b966ef.chunk.js",
+    "static/js/2.e7b966ef.chunk.js.map": "/static/js/2.e7b966ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d688b6491dbc66db0b0e714b388a57f9.js": "/precache-manifest.d688b6491dbc66db0b0e714b388a57f9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.81dbbfb7.chunk.css.map": "/static/css/main.81dbbfb7.chunk.css.map",
+    "static/media/Group.png": "/static/media/Group.9f92cd41.png",
+    "static/media/Mara.jpg": "/static/media/Mara.8dd614e3.jpg",
+    "static/media/burger.png": "/static/media/burger.71594ec5.png",
+    "static/media/doorIn.png": "/static/media/doorIn.c3c3657b.png",
+    "static/media/pokemon.png": "/static/media/pokemon.1e9069d1.png",
+    "static/media/words.png": "/static/media/words.fcf65e50.png"
   }
 }
