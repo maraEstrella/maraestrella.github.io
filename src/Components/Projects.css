@@ -1,5 +1,5 @@
 .projects{
-    background-color:  rgb(223, 238, 238);
+    background-color:  rgba(247, 202, 101,.7);
     padding-bottom: 100px;
     padding-top: 70px;
     
@@ -17,9 +17,7 @@
     padding-bottom: 20px;
 }
 
-.card{
-    width: 15rem
-}
+
 
 .card-body{
     background-color: rgb(251, 249, 237);
@@ -29,4 +27,20 @@
 .btn-primary{
     background-color: #17a2b8;
 }
+
+@media only (min-width: 5px) and (max-width: 340px){
+  .card{
+    margin-left: 20px;
+    
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .btnCheck{
+  
+    margin-left: 0px;
+   
+    }
+}
+
 

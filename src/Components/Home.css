@@ -1,15 +1,10 @@
-.picture{
-width: 100%;
-height: 
-}
 .home{
-    
-background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
-height: 100vh;
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
+    background-color: rgba(247, 202, 101,.7);
+    padding-bottom: 230px;
     }
+.text{
+    padding-top: 230px;
+}
 
 .homeName{
     width: 60%;
@@ -99,8 +94,9 @@ animation: line-anim 2s ease forwards 0.3s;
 
 .home p{
     font-weight:700;
-    font-size: 1.75rem; 
+    font-size: 1.2rem; 
     font-family: 'Playfair Display', serif;
+    margin-left: 80px;
 
 }
 
@@ -108,26 +104,76 @@ animation: line-anim 2s ease forwards 0.3s;
     font-family: 'Playfair Display', serif;
     border-color: #fff; 
     color: #fff;
+    margin-left: 100px;
 }
 
-.flower{
-    width: 15%;
-}
 
-@media only screen and (max-width: 576px) {
-  .flower {
-        width: 20%;
-    }
-    .home p{
-        padding-bottom: 30px;
-        font-size: 1.2rem;
-       
-    }
+@media only (min-width: 5px) and (max-width: 340px){
+  .home p {
+    font-size: 1.2rem;
+    margin-left: 5px;
+    color:  #22313f;
+    
+}
+   .btn {
+    
+    border-color: #22313f;
+    color: #22313f;
+    margin-left: -60px;
+    font-weight:700;
+
+}
+   
     .text{
         font-size: 1.2rem;
         padding-top: 230px;
         text-align: center;
     }
+    .projectsBtn{
 
+       padding-top: 50px; 
+
+    }
+
+}
+
+@media (min-width: 341px) and (max-width: 600px) {
+    .btn {
+    margin-left: 110px;
+    }
+    .text{
+        font-size: 1.2rem;
+        padding-top: 290px;
+        margin-left: 30px;
+        
+    }
+}
+@media (min-width: 601px) and (max-width: 992px) {
+ .text{
+        margin-left: -130px;
+    }
+}
+    
+@media (max-width: 1024px)  {
+   .homeName{
+    position: relative;
+    padding-top: 120px;
+    width: 50%;
+   }
+    .home p {
+    font-size: 2rem;
+    color:  #22313f;
+}
+.text {
+padding-top: 80px; 
+}
+.projectsBtn{
+    
+padding-top: 20px;
+}
+.btn{
+    color: #22313f;
+    border-color: #22313f;
+}
 }
 

@@ -1,0 +1,52 @@
+var linguJSON = {
+    "English": [
+    	{
+	"Lenguage":"English",
+	"TitleHome":"Home",
+	"TitleAbout":"About me",
+	"TitleProjects":"Projects",
+	"TitleContact":"Contact me",
+	"TitleTouch":"Get in Touch",
+	"BtnHomeProjects":"See my Projects",
+	"TitleSumary":"Sumary",
+	"Description":"I am enthusiastic person that loves tecnology, iam electronic engenireen",
+	"TitleSoft":"Soft Skills",
+	"ImgSoft":"https://www.profedeele.es/wp-content/uploads/2014/09/nubes-de-palabras-profedeele.jpg",
+	"TitleTec": "Technical Skills",
+	"ImgTech":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiJnKiV3dLjAhVMIKwKHezOAjUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.ccl.org%2Fblog%2F4-essential-types-skills-leaders-need%2F&psig=AOvVaw2YEptA_2BRDYaF0dcni4hy&ust=1564235335433402",
+	"BqDescription":"It is a fast food web application with options for ordering and viewing orders in the kitchen. Technologies used: React Js, Firebase, Bootstrap",
+	"DorDescription":"It is a web app to register the visits in a work center with option to take a photo and there is a section to view history. Technologies used: JavaScript, Firebase",
+	"PokDescription":"It is a web app designed for beginners in the pokemon game, they can visualize the different avatars and filter them by type. Technologies used: JavaScript and CSS.",
+	"BtnCheck":"Check Out",
+	"FormName":"Name",
+	"FormEmail":"Email",
+	"FormComments":"Comments",
+	"BtnSend":"Send",
+	"BtnCV":"CV Download"
+
+}],
+"Español": [{
+	"Lenguage":"Español",
+	"TitleHome":"Inicio",
+	"TitleAbout":"Acerca de mi",
+	"TitleProjects":"Proyectos",
+	"TitleContact":"Ponte en contacto",
+	"BtnHomeProjects":"Ve mis proyectos",
+	"TitleSumary":"Resumen",
+	"Description":"Soy una persona entusiasta que le gusta la tecnología, me gradué como ingeniero electrónico y mi deseo es poder conocer otros caminos de la tecnología ",
+	"TitleSoft":"Habilidades blandas",
+	"ImgSoft":"https://www.profedeele.es/wp-content/uploads/2014/09/nubes-de-palabras-profedeele.jpg",
+	"TitleTec": "Habilidades tecnicas",
+	"ImgTech":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiJnKiV3dLjAhVMIKwKHezOAjUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.ccl.org%2Fblog%2F4-essential-types-skills-leaders-need%2F&psig=AOvVaw2YEptA_2BRDYaF0dcni4hy&ust=1564235335433402",
+	"BqDescription":"Es una aplicación web de comida rápida con opciones para ordenar y ver pedidos en la cocina. Tecnologías utilizadas: React Js, Firebase, Bootstrap",
+	"DorDescription":"Es una aplicación web para registrar las visitas en un centro de trabajo con la opcion de tomar una foto y hay una seccion para ver el historial. Tecnologías utilizadas: JavaScript, Firebase",
+	"PokDescription":"Es una aplicación web diseñada para principiantes en el juego de pokemon, que pueden visualizar los diferentes avatares y filtrarlos por tipo. Tecnologías utilizadas: JavaScript y CSS",
+	"BtnCheck":"Visitalo",
+	"FormName":"Nombre",
+	"FormEmail":"Correo",
+	"FormComments":"Comentarios",
+	"BtnSend":"Enviar",
+	"BtnCV":"Descarga mi BtnCV"
+}
+]
+}

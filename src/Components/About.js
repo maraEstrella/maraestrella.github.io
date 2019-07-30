@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import './About.css'
 import Mara from '../img/Mara.jpg';
-import Group from '../img/Group.png';
-import Words from '../img/words.png';
+import Group from '../img/tecs.png';
+import Words from '../img/cloud.png';
 
 class About extends Component {
     render(){
